@@ -22,7 +22,7 @@ const Header: React.FC = () => {
       <header className="header">
         <nav className="navbar">
           <img 
-            src="./assets/logo_icon.png" 
+            src="./logo_icon.png" 
             alt="K icon" 
             width="75" 
             height="75"

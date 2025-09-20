@@ -18,7 +18,7 @@ function Home(){
           </p>
           
           <a
-            href={"./assets/KWOK Kim Hong_Resume.pdf"} 
+            href={"./KWOK Kim Hong_Resume.pdf"} 
             download 
             className="contact-link"
             target="_blank" 
@@ -32,14 +32,14 @@ function Home(){
 
         <div className="about-img">
           <img 
-            src=".\assets\programming.png" 
+            src="./programming.png" 
             alt="programming image" 
             width="500" 
             height="300"
           />
 
           <img 
-            src=".\assets\snowborading.png" 
+            src="./snowborading.png" 
             alt="programming image" 
             width="300" 
             height="300"
