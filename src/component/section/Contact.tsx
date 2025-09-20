@@ -13,28 +13,28 @@ interface ContactInfo {
 const Contact: React.FC = () => {
   const contactInfo: ContactInfo[] = [
     {
-      icon: 'src/assets/email.jpg',
+      icon: './assets/email.jpg',
       title: 'Email',
       value: 'kwokkimhonghk@gmail.com',
     },
     {
-      icon: 'src/assets/phone.jpg',
+      icon: './assets/phone.jpg',
       title: 'Phone',
       value: '+852 5225 5778',
     },
     {
-      icon: 'src/assets/location.webp',
+      icon: './assets/location.webp',
       title: 'Location',
       value: 'Tung Chung, Hong Kong'
     },
     {
-      icon: 'src/assets/Linkedin.png',
+      icon: './assets/Linkedin.png',
       title: 'LinkedIn',
       value: 'in/Kim-Hong-KWOK',
       link: 'www.linkedin.com/in/kim-hong-kwok-317b082bb'
     },
     {
-      icon: 'src/assets/github.png',
+      icon: './assets/github.png',
       title: 'GitHub',
       value: '@KHKWOKAH',
       link: 'https://github.com/hf456'

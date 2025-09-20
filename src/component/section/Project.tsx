@@ -32,7 +32,7 @@ const projectsData: Project[] = [
     title: "Online Barcode Generator",
     description: "",
     detailedDescription: "",
-    imageUrl: "src/assets/barcodes.jpg",
+    imageUrl: "./assets/barcodes.jpg",
     technologies: ["Java", "ReactJS"],
     features: [
     ],
@@ -44,7 +44,7 @@ const projectsData: Project[] = [
     title: "Forum Mobile App",
     description: "",
     detailedDescription: "",
-    imageUrl: "src/assets/forumapp.jpg",
+    imageUrl: "./assets/forumapp.jpg",
     technologies: ["Kotlin", "Jetpack compose", "Firebase"],
     features: [
     ],
@@ -56,7 +56,7 @@ const projectsData: Project[] = [
     title: "Online Shopping Platform (Developing)",
     description: "",
     detailedDescription: "",
-    imageUrl: "src/assets/onlineshopping.png",
+    imageUrl: "./assets/onlineshopping.png",
     technologies: ["Spring boot", "ReactJS", "MySQL"],
     features: [
       "",
