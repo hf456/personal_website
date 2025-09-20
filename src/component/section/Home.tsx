@@ -18,7 +18,7 @@ function Home(){
           </p>
           
           <a
-            href={"./assets/KWOK Kim Hong_Resume.pdf"} 
+            href={".\assets\KWOK Kim Hong_Resume.pdf"} 
             download 
             className="contact-link"
             target="_blank" 
